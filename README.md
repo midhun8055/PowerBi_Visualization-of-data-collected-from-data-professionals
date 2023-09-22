@@ -1,3 +1,5 @@
+
+![report1](https://github.com/midhun8055/PowerBi_Visualization-of-data-collected-from-data-professionals/assets/67229586/2a0a5d79-6b1e-4d35-8aae-526719c8071b)
 # PowerBi_Visualization-of-data-collected-from-data-professionals
 Extensive Data Visualizations for Diverse and Large Data Sets.
 
